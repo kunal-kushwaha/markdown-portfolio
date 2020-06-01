@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Java
+2. Python
+3. Web
+   1. JS
+   2. React
